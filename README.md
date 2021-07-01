@@ -36,9 +36,9 @@ struct StructName{ \
 
 if-else
 
-if(expression){ 
+if(expression){ \
   command \  
-}
+} \
 else{ \
   command \
 }
