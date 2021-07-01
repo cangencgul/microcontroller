@@ -1,7 +1,7 @@
 # microcontroller
 char
-unsigned char size: 8 bit range: 0 to 255
-signed char size: 8 bit range: -128 to 127
+unsigned char size: 8 bit range: 0 to 255 \
+signed char size: 8 bit range: -128 to 127 \
 
 int
 unsigned short int size: 8 bit range: 0 to 255
