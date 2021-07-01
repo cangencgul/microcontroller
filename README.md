@@ -18,4 +18,4 @@ we can create array all emenent same like this:
 signed int Array_Name[Len_of_Array] 
 first index of array is equal to 0
 
-
+#Pointers
