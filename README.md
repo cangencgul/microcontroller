@@ -22,3 +22,14 @@ first index of array is equal to 0
 ![image](https://user-images.githubusercontent.com/63459021/124063034-9ce2ce00-da3a-11eb-8926-9cc072d20840.png)
 pointers hold the memory adress of variable
 
+#Struct
+
+struct same as Python class
+
+struct StructName{
+  unsigned char VariableNameOfChar;
+  unsigned int variableNameOfInt;
+  .
+  .
+  .
+}
