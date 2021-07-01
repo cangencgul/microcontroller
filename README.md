@@ -19,3 +19,5 @@ signed int Array_Name[Len_of_Array]
 first index of array is equal to 0
 
 #Pointers
+pointers hold the memory adress of variable
+![image](https://user-images.githubusercontent.com/63459021/124063034-9ce2ce00-da3a-11eb-8926-9cc072d20840.png)
