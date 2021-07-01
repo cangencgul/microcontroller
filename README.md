@@ -33,3 +33,12 @@ struct StructName{ \
   . \
   . \
 } \
+
+if-else
+
+if(expression){ 
+  command \  
+}
+else{ \
+  command \
+}
