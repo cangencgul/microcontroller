@@ -42,3 +42,12 @@ if(expression){ \
 else{ \
   command \
 }
+
+switch-case
+
+switch ( key){ \
+  case value1: \
+  command; \
+  case value2: \
+  command; \
+}
